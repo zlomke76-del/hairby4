@@ -1,6 +1,6 @@
 # Hair by Four Salon — website demo
 
-A complete, dependency-free salon website concept. Warm editorial design, responsive navigation, filterable services and hairstyle gallery, accessible inspiration dialogs, location and hours, FAQs, and a three-step appointment demonstration.
+A complete, dependency-free salon website concept. Cinematic espresso-and-champagne design, responsive navigation, filterable services and hairstyle gallery, accessible inspiration dialogs, location and hours, FAQs, and a three-step appointment demonstration.
 
 ## Run
 
@@ -21,6 +21,8 @@ Serve `dist/` with any static web host. A `vercel.json` is included for a standa
 
 ## What works
 
+- Cinematic full-bleed hero and staggered editorial lookbook
+- Personal style finder: choose cut, color or movement; carry inspiration into the demo
 - Responsive mobile menu and navigation
 - Service category filters and service-specific demo entry points
 - Hairstyle category filters, enlarged look views, and preselected inspiration
@@ -37,7 +39,9 @@ No availability API, real reservation, payment, email, SMS, contact submission, 
 
 - `dist/data.js`: business details, opening hours, service descriptions, illustrative durations and gallery metadata
 - `dist/index.html`: salon copy, hours presentation, FAQs and page structure
-- `dist/styles.css`: branding, responsive layout and image composition
+- `dist/styles.css`: base layout and booking controls
+- `dist/elite.css`: Signature Edit theme, cinematic hero, mobile refinements and style finder
+- `dist/assets/signature-hero.jpg`: original generated hero photograph
 - `dist/app.js`: filters, dialog interactions and appointment walkthrough
 - `dist/assets/editorial-hair.jpg`: original generated contact sheet; CSS selects its six individual panels
 
