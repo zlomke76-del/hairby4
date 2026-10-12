@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 205" role="img" aria-labelledby="title desc">
+<title id="title">Hair by 4 Family Salon</title><desc id="desc">Refined navy wordmark with scissors crossing the central lettering, based on the salon's supplied business card.</desc>
+<g fill="#203c70" font-family="Georgia, 'Times New Roman', serif">
+<text x="25" y="103" font-size="77" letter-spacing="-3">HAIR</text>
+<text x="47" y="149" font-size="51" font-weight="bold">by</text>
+<text x="214" y="149" font-size="55" font-weight="bold">4</text>
+<text x="160" y="194" text-anchor="middle" font-size="35" letter-spacing="-.5">Family Salon</text>
+</g>
+<g stroke="#f7f4ed" stroke-width="5" stroke-linejoin="round"><path d="M153 62 212 153 201 145 150 85Z" fill="#203c70"/><path d="M174 61 153 112 145 119 162 76Z" fill="#203c70"/></g>
+<g fill="none" stroke="#203c70" stroke-width="3.4"><ellipse cx="143" cy="43" rx="14" ry="16" transform="rotate(-24 143 43)"/><ellipse cx="174" cy="42" rx="14" ry="16" transform="rotate(14 174 42)"/><path d="m134 28-12-18m27 47 61 95m-39-94-24 60" stroke-linecap="round"/></g><circle cx="168" cy="87" r="3.5" fill="#f7f4ed"/>
+</svg>
